@@ -61,6 +61,12 @@ font-family: "Sacramento", cursive;
             float: right;
             margin-left: 30px;
       }
+.MAL{
+        text-decoration: none;
+        color:  red;
+        font-family: 'Rubik', sans-serif;
+        font-weight: bold;
+      }
       .chess{
         width: 10.5em;
       float: left;
